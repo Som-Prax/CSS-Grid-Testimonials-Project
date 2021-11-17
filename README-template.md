@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [link](https://affectionate-tesla-97ce0c.netlify.app/)
+- Solution URL: [Frontend Mentor Solution](https://your-solution-url.com)
+- Live Site URL: [CSS Grid Testimonials](https://affectionate-tesla-97ce0c.netlify.app/)
 
 
 ### Built with
